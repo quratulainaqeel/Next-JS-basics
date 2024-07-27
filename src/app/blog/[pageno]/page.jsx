@@ -1,11 +1,11 @@
-// import Navbar from "@/components/navbar"
+import Navbar from "@/components/navbar"
 
 const BlogPageNo = () => {
     return (
-        <div>
-            {/* <Navbar/> */}
+        <>
+            <Navbar />
             BlogPageNo
-        </div>
+        </>
     )
 }
 
